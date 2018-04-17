@@ -1,6 +1,6 @@
                                                            
 ######################################################### Chick Growth  ################################################################################
-################################# By R. Sherley, Environment and Sustainability Institute, University of Exeter ##############################################
+################################# By R. B. Sherley, Environment and Sustainability Institute, University of Exeter ##############################################
 #
 #       This script will calculate growth co-efficents for measurements of mass, which can be read in automatically from
 #       a file (the data should be formatted as in the example file). The code can deal with missing values (specified as 'NA').
